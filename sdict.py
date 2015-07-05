@@ -12,7 +12,7 @@ __title__ = 'sdict'
 __version__ = '0.1.0'
 __author__ = 'Jared Suttles'
 __license__ = 'Modified BSD'
-__copyright__ = 'Copyright 2014 Jared Suttles'
+__copyright__ = 'Copyright 2015 Jared Suttles'
 
 import sys as _sys
 try:
